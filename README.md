@@ -9,7 +9,8 @@ For the past six years I have been passionate about the world of IT and everythi
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [gabbo.simone01@gmail.com](mailto:gabbo.simone01@gmail.com)
 * 🧠  I'm learning React Js
-* ⚡  I'm secretly an AI... but don't tell anyone
+* 🏈  Ex Rugby player
+* ⚡  I'm secretly an AI... but don't tell anyone
 
 ### Main Skills
 
